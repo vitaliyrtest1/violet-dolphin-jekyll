@@ -106,3 +106,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://violet-dolphin-jekyll-9b991.netlify.app'
